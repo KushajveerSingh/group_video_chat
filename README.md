@@ -18,11 +18,17 @@ A group video chat application built using [Agora App Builder](https://appbuilde
 ### Create meeting
 Create meetings and share a link with others to join. Admin can mute other people, stop their video, give privileges and more. Further screen sharing capability is also there.
 
+https://user-images.githubusercontent.com/24699564/196153810-af639f64-235a-4ecc-b4b5-71f07b7426f6.mp4
+
 ### Messaging
 Group chat or chat with the specific people you want privately.
 
+https://user-images.githubusercontent.com/24699564/196153864-0eb8da0b-0c44-4bb2-a52c-e8fadfedd7d4.mp4
+
 ### Create polls
 Create polls to further engage the audience.
+
+https://user-images.githubusercontent.com/24699564/196153893-9f891866-e6ec-4ab8-b7cd-3454258ea8cb.mp4
 
 ## Local Setup
 **Step 1**. Setup Node.js v16.17.1. [nvm](https://github.com/nvm-sh/nvm) can be used to quickly setup Node.js (and you can also have multiple versions of Node.js).

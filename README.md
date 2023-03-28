@@ -1,9 +1,14 @@
 # Group Video Chat
+**Note:-** Since Heroku removed their free tier, I have not migrated the backend to another service. And as a result, the demo would not work. Sorry for the inconvenience.
+
 [demo](https://kushaj-group-video-chat.vercel.app)
 
 ![](assets/demo_image.png)
 
-A group video chat application built using [Agora App Builder](https://appbuilder.agora.io/). You can host conference video chats with support for multiple people at the same time, share screen, private and group messaging, admin controls and create polls. This project is mostly focused on working with an enterprise scale codebase and adding features on top of it (like creating polls) by reading the documentation.
+- Developed a group video chat application with support for multiple participants, screen sharing, private and group messaging, admin controls, and polling, using Agora's chat builder for scalability and rapid development.
+- Enhanced existing Agora codebase with additional features such as a polling system, showcasing the ability to work effectively in large codebases and integrate new functionalities.
+- Implemented user-friendly features such as meeting creation and sharing, admin controls for muting and managing participants, and options for private or group chats, promoting an engaging user experience.
+- Deployed the frontend on Vercel and the backend on Heroku.
 
 ## Table of Contents
 - [Demo Videos](#demo-videos)

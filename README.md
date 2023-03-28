@@ -1,5 +1,5 @@
 # Group Video Chat
-**Note:-** Since Heroku removed their free tier, I have not migrated the backend to another service. And as a result, the demo would not work. Sorry for the inconvenience.
+**Note:-** Since Heroku removed their free tier, I have not migrated the backend to another service. And as a result, the demo would not work. Sorry for the inconvenience. But you can still see the demo videos down below, to see the working of the app.
 
 [demo](https://kushaj-group-video-chat.vercel.app)
 
